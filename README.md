@@ -1,5 +1,5 @@
 # Star Wars Repo
 
-![./star_wars.png](Star Wars Logo)
+![Star Wars Logo](./star_wars.png)
 
 Este répositório serve de exemplo para o curso de Git e Github.
